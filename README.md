@@ -39,8 +39,8 @@
 
 <h3> Stats </h3>
 
-[![Sky-thrill GitHub | Stats](https://stats.quira.sh/Sky-thrill/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sky-thrill)
+[![Sky-thrill's GitHub | Stats](https://stats.quira.sh/Sky-thrill/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sky-thrill)
   &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;
-[![LowLevelLore's Stack Overflow | Stats](https://stats.quira.sh/Sky-thrill/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sky-thrill) 
+[![Sky-thrill's Stack Overflow | Stats](https://stats.quira.sh/Sky-thrill/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sky-thrill) 
 
-[![LowLevelLore's GitHub | Languages Over Time](https://stats.quira.sh/Sky-thrill/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sky-thrill)
+[![Sky-thrill's GitHub | Languages Over Time](https://stats.quira.sh/Sky-thrill/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sky-thrill)
